@@ -1,0 +1,368 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon_ff9b1a8558652b202bc5395acf194565.ttf") format("truetype"),
+url("../fonts/flaticon_ff9b1a8558652b202bc5395acf194565.woff") format("woff"),
+url("../fonts/flaticon_ff9b1a8558652b202bc5395acf194565.woff2") format("woff2"),
+url("../fonts/flaticon_ff9b1a8558652b202bc5395acf194565.eot#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_ff9b1a8558652b202bc5395acf194565.svg#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-straight-quotes:before {
+    content: "\f101";
+}
+.flaticon-play-button:before {
+    content: "\f102";
+}
+.flaticon-play-button-arrowhead:before {
+    content: "\f103";
+}
+.flaticon-quotation-mark:before {
+    content: "\f104";
+}
+.flaticon-minus-sign:before {
+    content: "\f105";
+}
+.flaticon-right-quote-sign:before {
+    content: "\f106";
+}
+.flaticon-aid-man:before {
+    content: "\f107";
+}
+.flaticon-bandage:before {
+    content: "\f108";
+}
+.flaticon-air-ambulance:before {
+    content: "\f109";
+}
+.flaticon-ambulance:before {
+    content: "\f10a";
+}
+.flaticon-admision-form:before {
+    content: "\f10b";
+}
+.flaticon-drop-counter:before {
+    content: "\f10c";
+}
+.flaticon-doctor:before {
+    content: "\f10d";
+}
+.flaticon-drugs:before {
+    content: "\f10e";
+}
+.flaticon-dna:before {
+    content: "\f10f";
+}
+.flaticon-emergency-kit:before {
+    content: "\f110";
+}
+.flaticon-headache:before {
+    content: "\f111";
+}
+.flaticon-first-aid-kit:before {
+    content: "\f112";
+}
+.flaticon-health-care:before {
+    content: "\f113";
+}
+.flaticon-disability:before {
+    content: "\f114";
+}
+.flaticon-blood-test:before {
+    content: "\f115";
+}
+.flaticon-hospital-reception:before {
+    content: "\f116";
+}
+.flaticon-hospital:before {
+    content: "\f117";
+}
+.flaticon-lungs:before {
+    content: "\f118";
+}
+.flaticon-insurance:before {
+    content: "\f119";
+}
+.flaticon-hospital-ward:before {
+    content: "\f11a";
+}
+.flaticon-medicine:before {
+    content: "\f11b";
+}
+.flaticon-medical-operation:before {
+    content: "\f11c";
+}
+.flaticon-medical-prescription:before {
+    content: "\f11d";
+}
+.flaticon-stethoscope:before {
+    content: "\f11e";
+}
+.flaticon-medical-history:before {
+    content: "\f11f";
+}
+.flaticon-medical-handbook:before {
+    content: "\f120";
+}
+.flaticon-microscope:before {
+    content: "\f121";
+}
+.flaticon-medical-computer:before {
+    content: "\f122";
+}
+.flaticon-nurse:before {
+    content: "\f123";
+}
+.flaticon-pediatry:before {
+    content: "\f124";
+}
+.flaticon-ophthalmology:before {
+    content: "\f125";
+}
+.flaticon-pregnancy:before {
+    content: "\f126";
+}
+.flaticon-pills:before {
+    content: "\f127";
+}
+.flaticon-online-medical-consultation:before {
+    content: "\f128";
+}
+.flaticon-operating-room:before {
+    content: "\f129";
+}
+.flaticon-sterile-mask:before {
+    content: "\f12a";
+}
+.flaticon-pharmacy:before {
+    content: "\f12b";
+}
+.flaticon-stomachache:before {
+    content: "\f12c";
+}
+.flaticon-syringe:before {
+    content: "\f12d";
+}
+.flaticon-sterile-gloves:before {
+    content: "\f12e";
+}
+.flaticon-test-tube:before {
+    content: "\f12f";
+}
+.flaticon-roller-bandage:before {
+    content: "\f130";
+}
+.flaticon-surgery-equipment:before {
+    content: "\f131";
+}
+.flaticon-traumatology:before {
+    content: "\f132";
+}
+.flaticon-pulse:before {
+    content: "\f133";
+}
+.flaticon-dentist:before {
+    content: "\f134";
+}
+.flaticon-veterinary:before {
+    content: "\f135";
+}
+.flaticon-urine-jar:before {
+    content: "\f136";
+}
+.flaticon-x-ray:before {
+    content: "\f137";
+}
+.flaticon-share:before {
+    content: "\f138";
+}
+.flaticon-right-arrow:before {
+    content: "\f139";
+}
+.flaticon-phone-call:before {
+    content: "\f13a";
+}
+.flaticon-left-arrow:before {
+    content: "\f13b";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f13c";
+}
+.flaticon-search:before {
+    content: "\f13d";
+}
+.flaticon-telephone:before {
+    content: "\f13e";
+}
+.flaticon-secure-shield:before {
+    content: "\f13f";
+}
+.flaticon-shipped:before {
+    content: "\f140";
+}
+.flaticon-tick:before {
+    content: "\f141";
+}
+.flaticon-call:before {
+    content: "\f142";
+}
+.flaticon-pin:before {
+    content: "\f143";
+}
+.flaticon-email:before {
+    content: "\f144";
+}
+.flaticon-email-1:before {
+    content: "\f145";
+}
+.flaticon-down-arrow:before {
+    content: "\f146";
+}
+.flaticon-done:before {
+    content: "\f147";
+}
+.flaticon-invisible:before {
+    content: "\f148";
+}
+.flaticon-phone-call-1:before {
+    content: "\f149";
+}
+.flaticon-checked:before {
+    content: "\f14a";
+}
+.flaticon-play:before {
+    content: "\f14b";
+}
+.flaticon-send:before {
+    content: "\f14c";
+}
+.flaticon-support:before {
+    content: "\f14d";
+}
+.flaticon-time:before {
+    content: "\f14e";
+}
+.flaticon-headphones:before {
+    content: "\f14f";
+}
+.flaticon-badge:before {
+    content: "\f150";
+}
+.flaticon-check:before {
+    content: "\f151";
+}
+.flaticon-user:before {
+    content: "\f152";
+}
+.flaticon-user-1:before {
+    content: "\f153";
+}
+.flaticon-quote:before {
+    content: "\f154";
+}
+.flaticon-quote-1:before {
+    content: "\f155";
+}
+.flaticon-shopping-cart:before {
+    content: "\f156";
+}
+.flaticon-exit:before {
+    content: "\f157";
+}
+.flaticon-quote-2:before {
+    content: "\f158";
+}
+.flaticon-edit:before {
+    content: "\f159";
+}
+.flaticon-check-1:before {
+    content: "\f15a";
+}
+.flaticon-home:before {
+    content: "\f15b";
+}
+.flaticon-email-2:before {
+    content: "\f15c";
+}
+.flaticon-verified:before {
+    content: "\f15d";
+}
+.flaticon-speech-bubble:before {
+    content: "\f15e";
+}
+.flaticon-file:before {
+    content: "\f15f";
+}
+.flaticon-bell:before {
+    content: "\f160";
+}
+.flaticon-notification:before {
+    content: "\f161";
+}
+.flaticon-bag:before {
+    content: "\f162";
+}
+.flaticon-search-1:before {
+    content: "\f163";
+}
+.flaticon-quote-3:before {
+    content: "\f164";
+}
+.flaticon-location:before {
+    content: "\f165";
+}
+.flaticon-clipboard:before {
+    content: "\f166";
+}
+.flaticon-love:before {
+    content: "\f167";
+}
+.flaticon-send-1:before {
+    content: "\f168";
+}
+.flaticon-sign-out:before {
+    content: "\f169";
+}
+.flaticon-search-2:before {
+    content: "\f16a";
+}
+.flaticon-plus:before {
+    content: "\f16b";
+}
+.flaticon-map:before {
+    content: "\f16c";
+}
+.flaticon-back:before {
+    content: "\f16d";
+}
+.flaticon-next:before {
+    content: "\f16e";
+}
+.flaticon-user-2:before {
+    content: "\f16f";
+}
+.flaticon-quotes:before {
+    content: "\f170";
+}
+.flaticon-heart:before {
+    content: "\f171";
+}
+.flaticon-email-3:before {
+    content: "\f172";
+}
+.flaticon-up-arrow:before {
+    content: "\f173";
+}
+.flaticon-application:before {
+    content: "\f174";
+}
